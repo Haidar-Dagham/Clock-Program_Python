@@ -14,6 +14,15 @@ A sleek, real-time **digital clock** built using Python and Tkinter. This deskto
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <strong>'Clock Program' Desktop View</strong><br>
+  <img src="Screenshot.png" width="600" alt="Desktop Screenshot">
+</p>
+
+---
+
 ## 🚀 Running the Application
 
 ### 🔧 From Source (Python Script)
